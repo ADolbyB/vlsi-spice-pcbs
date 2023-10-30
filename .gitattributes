@@ -1,0 +1,8 @@
+# Classify .kicad_sch, .kicad_pro as KiCad Schematic
+*.kicad_sch linguist-language=KiCad Schematic
+*.kicad_pro linguist-language=KiCad Schematic
+
+# Classify .kicad_pcb, .kicad_mod, .kicad_wks as KiCad Layout
+*.kicad_pcb linguist-language=KiCad Layout
+*.kicad_mod linguist-language=KiCad Layout
+*.kicad_wks linguist-language=KiCad Layout
