@@ -1,2 +1,2 @@
 # Classify .asc as LTspice Symbol constraints files:
-*.asc linguist-language=LTspice Symbol
+*.asc linguist-language=1013566805 # LTspice-Symbol
