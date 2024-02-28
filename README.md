@@ -25,6 +25,22 @@ Some official KiCAD Info Links:
 - [KiCAD Docs](https://docs.kicad.org/)
 - [KiCAD Forum](https://forum.kicad.info/)
 
+## EDA Playground
+
+<div align="center">
+
+<img src="./assets/EDAplayground.png" alt="LTSpice" width="300"/><br>
+<small>
+    <a href="https://avatars3.githubusercontent.com/u/11648029?s=400&v=4">Image Source</a>
+</small>
+
+</div>
+
+- [Online IDE](https://www.edaplayground.com/)
+- [Quick Start](https://eda-playground.readthedocs.io/en/latest/quick-start.html) Docs
+- [GitHub Repo](https://github.com/edaplayground/eda-playground)
+
+
 ## LTSpice
 
 <div align="center">
