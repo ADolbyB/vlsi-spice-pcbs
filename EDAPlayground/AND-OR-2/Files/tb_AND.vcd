@@ -1,0 +1,95 @@
+$date
+	Fri Mar  8 13:03:34 2024
+$end
+
+$version
+	Synopsys VCS version S-2021.09
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 52424f5928ae1287 $end
+
+
+$scope module tb_AND $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var wire 1 # Y $end
+$var wire 1 $ Z $end
+
+$scope module a1 $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 # y $end
+$var wire 1 $ z $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+$end
+#3
+1"
+1$
+#6
+1!
+1#
+0"
+0#
+#9
+1"
+1#
+#12
+0!
+0#
+0"
+0$
+#15
+1"
+1$
+#18
+1!
+1#
+0"
+0#
+#21
+1"
+1#
+#24
+0!
+0#
+0"
+0$
+#27
+1"
+1$
+#30
+1!
+1#
+0"
+0#
+#33
+1"
+1#
+#36
+0!
+0#
+0"
+0$
+#39
+1"
+1$
+#42
+1!
+1#
+0"
+0#
