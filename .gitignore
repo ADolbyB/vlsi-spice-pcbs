@@ -1,6 +1,17 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
+# EDA Playground Files:
+**/csrc
+**/simv.daidir
+**/work
+**/ACCELLERA_OVL_VHDL_LIB
+*.sh
+*.do
+*.setup
+*.key
+simv
+
 # Temporary files
 *.000
 *.bak
