@@ -1,6 +1,6 @@
-# Schematics and PCB Files
+# VLSI | SPICE | PCBs | Schematics
 
-This is a collection of schematics and boards I made from various sources for Project Research.
+This is a collection of similar items I needed for for Project Research. Topics range from KiCad schematics and PCB development, to PSPice and Circuit Development, and finally for VLSI design there is EDA Playground and LTSpice.
 
 ## KiCAD
 
