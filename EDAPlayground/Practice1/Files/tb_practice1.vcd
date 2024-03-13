@@ -1,0 +1,160 @@
+$date
+	Wed Mar 13 14:32:37 2024
+$end
+
+$version
+	Synopsys VCS version S-2021.09
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 09e563aeb89d468a $end
+
+
+$scope module tb_practice1 $end
+$var reg 1 ! clk $end
+$var reg 1 " A $end
+$var reg 1 # B $end
+$var reg 1 $ C $end
+$var wire 1 % Q $end
+
+$scope module p1 $end
+$var wire 1 " a $end
+$var wire 1 # b $end
+$var wire 1 $ c $end
+$var wire 1 % q $end
+$var wire 1 & aNandB $end
+$var wire 1 ' aNorB $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0"
+0#
+0$
+0%
+0!
+x&
+x'
+$end
+1&
+1'
+#5
+1!
+#10
+0!
+#15
+1!
+#20
+0!
+#25
+1!
+#30
+0!
+#35
+1!
+#40
+1$
+0!
+1%
+#45
+1!
+#50
+0!
+#55
+1!
+#60
+1#
+0'
+0$
+0!
+0%
+#65
+1!
+#70
+0!
+#75
+1!
+#80
+1$
+0!
+#85
+1!
+#90
+0!
+#95
+1!
+#100
+1"
+0#
+0$
+0!
+#105
+1!
+#110
+0!
+#115
+1!
+#120
+1$
+0!
+#125
+1!
+#130
+0!
+#135
+1!
+#140
+1#
+0&
+0$
+0!
+#145
+1!
+#150
+0!
+#155
+1!
+#160
+1$
+0!
+#165
+1!
+#170
+0!
+#175
+1!
+#180
+0!
+#185
+1!
+#190
+0!
+#195
+1!
+#200
+0!
+#205
+1!
+#210
+0!
+#215
+1!
+#220
+0!
+#225
+1!
+#230
+0!
+#235
+1!
+#240
+0!
+#245
+1!
