@@ -1,0 +1,110 @@
+$date
+	Wed Mar 20 11:56:08 2024
+$end
+
+$version
+	Synopsys VCS version S-2021.09
+$end
+
+$timescale
+	1ns
+$end
+
+$comment Csum: 1 c78046a39f0fcee9 $end
+
+
+$scope module tb_FULLADD_1 $end
+$var reg 1 ! clk $end
+$var reg 1 " X $end
+$var reg 1 # Y $end
+$var reg 1 $ CINtest $end
+$var wire 1 % COUTtest $end
+$var wire 1 & SUMtest $end
+
+$scope module fa1 $end
+$var wire 1 " A $end
+$var wire 1 # B $end
+$var wire 1 $ CIN $end
+$var wire 1 & SUM $end
+$var wire 1 % COUT $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0$
+0%
+0&
+0"
+0#
+0!
+$end
+#5
+1!
+#10
+0!
+#15
+1!
+#20
+1$
+0!
+1&
+#25
+1!
+#30
+1#
+0$
+0!
+#35
+1!
+#40
+1$
+0!
+1%
+0&
+#45
+1!
+#50
+1"
+0#
+0$
+0!
+0%
+1&
+#55
+1!
+#60
+1$
+0!
+1%
+0&
+#65
+1!
+#70
+1#
+0$
+0!
+1%
+#75
+1!
+#80
+1$
+0!
+1&
+#85
+1!
+#90
+0!
+#95
+1!
+#100
+0!
+#105
+1!
+#110
+0!
+#115
+1!
