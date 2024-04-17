@@ -11,15 +11,13 @@ This is a collection of similar items I needed for for Project Research. Topics 
 
 </div>
 
-For KiCAD, I Followed This Tutorial By Shawn Hymel:
-- [KiCAD Tutorial](https://www.youtube.com/playlist?list=PLEBQazB0HUyR24ckSZ5u05TZHV9khgA1O) Playlist by Shawn Hymel.
+Some useful KiCad Tutorials:
+- Shawn Hymel: [KiCAD Tutorial](https://www.youtube.com/playlist?list=PLEBQazB0HUyR24ckSZ5u05TZHV9khgA1O) Playlist.
+- Chris Gammel: [Getting To Blinky KiCad Tutorial Series](https://www.youtube.com/watch?v=iTyi3RvNoB0&list=PLy2022BX6Esr6yxwDzhqYZyuuenJE2s5B)
+- Chris Gammel: [Getting To Blinky 5.0](https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn)
+- element14 presents: [Episode 485: How to Make a Custom PCB From Design to Assembly](https://www.youtube.com/watch?v=p6Fc1ep98VI) .
 
-Also see these KiCAD playlists by Chris Gammel: 
-
- - [Getting To Blinky KiCad Tutorial Series](https://www.youtube.com/watch?v=iTyi3RvNoB0&list=PLy2022BX6Esr6yxwDzhqYZyuuenJE2s5B)
- - [Getting To Blinky 5.0](https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn)
-
-Some official KiCAD Info Links:
+Official KiCad Links:
 
 - [KiCAD Learning Resources](https://www.kicad.org/help/learning-resources/) page with tutorials.
 - [KiCAD Docs](https://docs.kicad.org/)
