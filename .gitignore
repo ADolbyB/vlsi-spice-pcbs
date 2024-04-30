@@ -37,10 +37,11 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-*.csv
 
 # Anything Not A PCB or Schematic
 *.lib
 *.dcm
 sym-lib-table
 Libraries/
+**/*.lck
+**/#auto_saved_files#
