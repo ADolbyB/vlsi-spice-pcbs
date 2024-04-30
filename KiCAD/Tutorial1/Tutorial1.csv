@@ -1,0 +1,5 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","BT1","1","3V","Battery:BatteryHolder_Keystone_1058_1x2032",""
+"2","D1","1","RED","LED_THT:LED_D5.0mm",""
+"3","R1","1","1k","Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal",""
+"4","SW1","1","M2011S3A1W03","SPST_NKK:Switch_Toggle_SPST_NKK_M2011S3A1x03",""
