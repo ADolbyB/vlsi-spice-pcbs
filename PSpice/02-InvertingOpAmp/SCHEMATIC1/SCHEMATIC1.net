@@ -1,0 +1,8 @@
+* source HOMEWORK1
+X_U1         0 N00248 V+ V- VOUT uA741
+V_V1         VIN 0  AC 1
++SIN 0 0.94V 10e3 0 0 0
+R_Rs         VIN N00248  1k TC=0,0 
+R_Rf         N00248 VOUT  10k TC=0,0 
+V_V2         0 V- 10Vdc
+V_V3         V+ 0 10Vdc
