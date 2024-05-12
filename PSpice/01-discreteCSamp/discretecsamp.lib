@@ -1,0 +1,5 @@
+* PSpice Model Editor - Version 22.1.0
+*$
+.model MbreakN-TEST NMOS
++LEVEL=1,VTO=1V,KP=0.1e-3,LAMBDA=0.02,L=4u,W=20u
+*$

@@ -1,0 +1,142 @@
+
+**** 08/28/23 01:09:06 ***** PSpice 22.1.0 (30 July 2023) ***** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-MOSFET1"  [ C:\Users\JB\Desktop\Code\PSpice\discreteCSamp-PSpiceFiles\SCHEMATIC1\MOSFET1.sim ] 
+
+
+ ****     CIRCUIT DESCRIPTION
+
+
+******************************************************************************
+
+
+
+
+** Creating circuit file "MOSFET1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../discretecsamp-pspicefiles/discretecsamp.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_DATA\cdssetup\OrCAD_PSpice\22.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 4mS 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+
+**** INCLUDING SCHEMATIC1.net ****
+* source DISCRETECSAMP
+C_C1         N00341 N00379  100uF  TC=0,0 
+C_C2         VOUT N00485  100uF  TC=0,0 
+R_R5         VIN N00341  1k TC=0,0 
+R_R1         N00379 N00455  10meg TC=0,0 
+R_R2         0 N00379  10meg TC=0,0 
+R_R3         VOUT N00455  1k TC=0,0 
+V_V1         N00455 0 5Vdc
+V_V2         VIN 0  
++SIN 0 10mV 1KhZ 0 0 0
+R_R4         0 N00485  10k TC=0,0 
+M_M1         VOUT N00379 0 0 MbreakN           
+
+**** RESUMING MOSFET1.cir ****
+.END
+
+**** 08/28/23 01:09:06 ***** PSpice 22.1.0 (30 July 2023) ***** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-MOSFET1"  [ C:\Users\JB\Desktop\Code\PSpice\discreteCSamp-PSpiceFiles\SCHEMATIC1\MOSFET1.sim ] 
+
+
+ ****     MOSFET MODEL PARAMETERS
+
+
+******************************************************************************
+
+
+
+
+               MbreakN         
+               NMOS            
+       LEVEL    1            
+           L  100.000000E-06 
+           W  100.000000E-06 
+         VTO    0            
+          KP   20.000000E-06 
+       GAMMA    0            
+         PHI     .6          
+      LAMBDA    0            
+          IS   10.000000E-15 
+          JS    0            
+          PB     .8          
+        PBSW     .8          
+          CJ    0            
+        CJSW    0            
+        CGSO    0            
+        CGDO    0            
+        CGBO    0            
+         TOX    0            
+          XJ    0            
+       UCRIT   10.000000E+03 
+      DIOMOD    1            
+         VFB    0            
+        LETA    0            
+        WETA    0            
+          U0    0            
+        TEMP    0            
+         VDD    5            
+       XPART    0            
+
+
+**** 08/28/23 01:09:06 ***** PSpice 22.1.0 (30 July 2023) ***** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-MOSFET1"  [ C:\Users\JB\Desktop\Code\PSpice\discreteCSamp-PSpiceFiles\SCHEMATIC1\MOSFET1.sim ] 
+
+
+ ****     INITIAL TRANSIENT SOLUTION       TEMPERATURE =   27.000 DEG C
+
+
+******************************************************************************
+
+
+
+ NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE     NODE   VOLTAGE
+
+
+(  VIN)    0.0000  ( VOUT)    4.9375  (N00341)    0.0000 (N00379)    2.5000     
+
+(N00455)    5.0000 (N00485)    0.0000 
+
+
+
+
+    VOLTAGE SOURCE CURRENTS
+    NAME         CURRENT
+
+    V_V1        -6.275E-05
+    V_V2         0.000E+00
+
+    TOTAL POWER DISSIPATION   3.14E-04  WATTS
+
+
+
+          JOB CONCLUDED
+
+**** 08/28/23 01:09:06 ***** PSpice 22.1.0 (30 July 2023) ***** ID# 0 ********
+
+ ** Profile: "SCHEMATIC1-MOSFET1"  [ C:\Users\JB\Desktop\Code\PSpice\discreteCSamp-PSpiceFiles\SCHEMATIC1\MOSFET1.sim ] 
+
+
+ ****     JOB STATISTICS SUMMARY
+
+
+******************************************************************************
+
+
+
+  Total job time (using Solver 1)   =         .05
+

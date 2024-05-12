@@ -1,0 +1,12 @@
+* source DISCRETECSAMP
+C_C1         N00341 N00379  100uF  TC=0,0 
+C_C2         VOUT N00485  100uF  TC=0,0 
+R_R5         VIN N00341  1k TC=0,0 
+R_R1         N00379 N00455  10meg TC=0,0 
+R_R2         0 N00379  10meg TC=0,0 
+R_R3         VOUT N00455  1k TC=0,0 
+V_V1         N00455 0 5Vdc
+V_V2         VIN 0  
++SIN 0 10mV 1KhZ 0 0 0
+R_R4         0 N00485  10k TC=0,0 
+M_M1         VOUT N00379 0 0 MbreakN           

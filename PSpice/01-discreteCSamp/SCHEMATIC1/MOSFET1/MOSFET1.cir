@@ -1,0 +1,20 @@
+** Profile: "SCHEMATIC1-MOSFET1"  [ C:\Users\JB\Desktop\Code\PSpice\discreteCSamp-PSpiceFiles\SCHEMATIC1\MOSFET1.sim ] 
+
+** Creating circuit file "MOSFET1.cir" 
+** WARNING: THIS AUTOMATICALLY GENERATED FILE MAY BE OVERWRITTEN BY SUBSEQUENT SIMULATIONS
+
+*Libraries: 
+* Profile Libraries :
+* Local Libraries :
+.LIB "../../../discretecsamp-pspicefiles/discretecsamp.lib" 
+* From [PSPICE NETLIST] section of C:\SPB_DATA\cdssetup\OrCAD_PSpice\22.1.0\PSpice.ini file:
+.lib "nom.lib" 
+
+*Analysis directives: 
+.TRAN  0 4mS 0 
+.OPTIONS ADVCONV
+.PROBE64 V(alias(*)) I(alias(*)) W(alias(*)) D(alias(*)) NOISE(alias(*)) 
+.INC "..\SCHEMATIC1.net" 
+
+
+.END
