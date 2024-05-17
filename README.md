@@ -2,6 +2,36 @@
 
 This is a collection of similar items I needed for for Project Research. Topics range from KiCad schematics and PCB development, to PSPice and Circuit Development, and finally for VLSI design there is EDA Playground and LTSpice.
 
+## PSPice (OrCad Capture CIS Lite)
+
+<div align="center">
+
+<img src="./assets/PSpice.png" alt="PSpice" width="250"/><br>
+<small>
+    <a href="https://images.credential.net/design/8c38784e-2876-4716-bcb7-410ce74f59a4_cdeb97702cf0af1b945a1f67f94d342daf939b3ef803c20f48b01d3a5cbbe769.png">Image Source</a>
+</small>
+
+</div>
+
+- Download OrCad Capture CIS Lite 17.2 [Here](https://archive.org/details/data2_202303) or [Here](https://archive.org/details/17.2-or-cad-lite-capture-pspice). 
+    - Note that this is the license-free (Lite) version & is posted in the public domain. It does not require a license key or activation. Please use responsibly.
+
+## EasyEDA
+
+<div align="center">
+
+<img src="./assets/EasyEDA.png" alt="EasyEDA" width="500"/><br>
+<small>
+<a href="https://cdn.sparkfun.com/assets/home_page_posts/6/9/0/6/easyeda.png">Image Source</a>
+</small>
+
+</div>
+
+- [Download EasyEDA](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
+- The Free Version is sufficient for entry-level projects.
+- SparkFun [EasyEDA Tutorial](https://www.sparkfun.com/news/6906?hss_channel=fbp-153488801415) for PCB design.
+- Easy EDA Std Version allows local storage of project files and is free.
+
 ## KiCAD
 
 <div align="center">
@@ -56,21 +86,6 @@ Official KiCad Links:
     - 7 Video [LTSpice Essentials Tutorial](https://www.analog.com/en/resources/media-center/videos/video-series/ltspice-essentials-tutorial.html)
     - 4 Video [How to Use LTspice for AC & Noise Analysis](https://www.analog.com/en/resources/media-center/videos/video-series/ltspice-ac-noise-analysis-tutorial.html)
     - Article [Get Up and Running with LTspice](https://www.analog.com/en/resources/analog-dialogue/articles/get-up-and-running-with-ltspice.html)
-
-## PSPice (OrCad Capture CIS Lite)
-
-<div align="center">
-
-<img src="./assets/PSpice.png" alt="PSpice" width="250"/><br>
-<small>
-    <a href="https://images.credential.net/design/8c38784e-2876-4716-bcb7-410ce74f59a4_cdeb97702cf0af1b945a1f67f94d342daf939b3ef803c20f48b01d3a5cbbe769.png">Image Source</a>
-</small>
-
-</div>
-
-- Download OrCad Capture CIS Lite 17.2 [Here](https://archive.org/details/data2_202303) or [Here](https://archive.org/details/17.2-or-cad-lite-capture-pspice). 
-    - Note that this is the license-free (Lite) version & is posted in the public domain. It does not require a license key or activation. Please use responsibly.
-
 
 ## Status:
 
