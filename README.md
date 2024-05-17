@@ -15,6 +15,8 @@ This is a collection of similar items I needed for for Project Research. Topics 
 
 - Download OrCad Capture CIS Lite 17.2 [Here](https://archive.org/details/data2_202303) or [Here](https://archive.org/details/17.2-or-cad-lite-capture-pspice). 
     - Note that this is the license-free (Lite) version & is posted in the public domain. It does not require a license key or activation. Please use responsibly.
+- This version of OrCad PSpice was used exclusively for all electronics class simulations.
+- All of the PSpice projects are my own work.
 
 ## EasyEDA
 
@@ -30,7 +32,8 @@ This is a collection of similar items I needed for for Project Research. Topics 
 - [Download EasyEDA](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html)
 - The Free Version is sufficient for entry-level projects.
 - SparkFun [EasyEDA Tutorial](https://www.sparkfun.com/news/6906?hss_channel=fbp-153488801415) for PCB design.
-- Easy EDA Std Version allows local storage of project files and is free.
+- Easy EDA free Standard Version allows local storage of project files.
+- This EDA is a complete concept-to-PCB solution for no cost.
 
 ## KiCAD
 
@@ -47,6 +50,8 @@ Some useful KiCad Tutorials:
 - Chris Gammel: [Getting To Blinky 5.0](https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn)
 - element14 presents: [Episode 485: How to Make a Custom PCB From Design to Assembly](https://www.youtube.com/watch?v=p6Fc1ep98VI) .
 
+The only downside to KiCad is the lack of any SPICE simulation, although it does check basic electrical rules.
+
 Official KiCad Links:
 
 - [KiCAD Learning Resources](https://www.kicad.org/help/learning-resources/) page with tutorials.
@@ -57,7 +62,7 @@ Official KiCad Links:
 
 <div align="center">
 
-<img src="./assets/EDAplayground.png" alt="LTSpice" width="300"/><br>
+<img src="./assets/EDAplayground.png" alt="EDA Playground" width="300"/><br>
 <small>
     <a href="https://avatars3.githubusercontent.com/u/11648029?s=400&v=4">Image Source</a>
 </small>
